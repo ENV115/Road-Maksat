@@ -1,0 +1,23 @@
+body {
+    font-family:     Verdana, Geneva, Arial, sans-serif;
+    font-size:       larger;
+    background-color: #3E5A99 ;
+}
+h1, h2, h3,p  {
+    color:           white;
+    border-bottom:   thin dotted springgreen;
+}
+h1 {
+    font-family:     "Emblema One", sans-serif;
+    font-size:       220%;
+}
+h2 {
+    font-size:       130%;
+    font-weight:     normal;
+}
+
+.container{
+    color:white ;
+     text-align: left;
+}
+

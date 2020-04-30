@@ -1,0 +1,82 @@
+body { 
+  background-color: #3E5A99 ;
+  font-family:      Georgia, "Times New Roman", Times, serif;
+  font-size:        small;
+  margin:           0px;
+}
+
+
+
+header.top {
+  background-color:#3E5A99;
+  margin: 10px 10px 0px 10px;
+  height:           108px;
+
+}
+
+header.top img#headerSlogan {
+	float: right;
+}
+
+
+div#tableContainer {
+	display: table;
+	border-spacing: 10px;
+}
+
+div#tableRow {
+	display: table-row;
+}
+
+section#drinks {
+    display: table-cell;
+    background-color: springgreen;
+    width: 20%;
+    padding: 15px;
+    vertical-align: top;
+}
+
+section#main, section#blog {
+  display: table-cell;
+  background:       #3E5A99 url() top left;
+  font-size:        120%;
+  padding:          15px;
+  vertical-align: top;
+    color: white;
+    line-height: 0.7cm;
+
+}
+
+aside {
+  display: table-cell;
+  background:       springgreen;
+  font-size:        105%;
+  padding:          15px;
+  vertical-align: top;
+}
+
+
+
+h1 {
+  font-size:        120%;
+  color:             whitesmoke;
+}
+
+h2 { font-size: 110%; }
+
+
+.beanheading {
+  text-align:       center;
+  line-height:      1.8em;
+}
+
+
+
+
+
+
+
+
+
+
+
